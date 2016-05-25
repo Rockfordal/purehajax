@@ -1,0 +1,11 @@
+{
+  "name": "ajax",
+  "private": true,
+  "dependencies": {
+    "purescript-affjax": "^0.8.0",
+    "purescript-halogen": "*"
+  },
+  "devDependencies": {
+    "purescript-stalling-coroutines": "~0.1.0"
+  }
+}
